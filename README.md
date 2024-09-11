@@ -29,3 +29,9 @@ After installing, we can start running our program by....
 python main.py
 ```
 Enter free API key provided by OpenWeather after login as the key and then you can proceed...
+
+## Screenshots
+![first](https://github.com/user-attachments/assets/634bd326-8c93-463e-8286-83ad2d127f65)
+![second](https://github.com/user-attachments/assets/574ebcce-d60d-46eb-9355-ce032a67a959)
+
+
